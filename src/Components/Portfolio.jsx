@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pc.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "keyboard,pc with book";
 
 /**
  * Project list
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Dental website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "this is a dental website,provide services for peoples health .",
+    url: "file:///C:/Users/Shabi%20ul%20Hassan/Desktop/complete%20web%20deveploment/project%201/index.html",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Online Meal",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Meal website,provide healthy and testy food with quality.",
+    url: "file:///C:/Users/Shabi%20ul%20Hassan/Desktop/complete%20web%20deveploment/project%202/Project-2/index.html",
   },
   {
     title: "My Resume Site",
