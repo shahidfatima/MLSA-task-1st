@@ -34,25 +34,25 @@ const projectList = [
     title: "Dental website",
     description:
       "this is a dental website,provide services for peoples health .",
-    url: "file:///C:/Users/Shabi%20ul%20Hassan/Desktop/complete%20web%20deveploment/project%201/index.html",
+    url: "https://shahidfatima.github.io/dental.github.io/",
   },
   {
     title: "Online Meal",
     description:
       "A Meal website,provide healthy and testy food with quality.",
-    url: "file:///C:/Users/Shabi%20ul%20Hassan/Desktop/complete%20web%20deveploment/project%202/Project-2/index.html",
+    url: "https://shahidfatima.github.io/Meal.github.io/",
   },
   {
-    title: "My Resume Site",
+    title: "Memory game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A short fun game to check your memory.",
+    url: "https://dimple-choudhary.github.io/Memory-game/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Age Calculator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "enjoy calculator with check your age.",
+    url: "https://demo.100jsprojects.com/age-calculator",
   },
 ];
 
